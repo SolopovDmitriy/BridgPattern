@@ -1,0 +1,11 @@
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.exe
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.deps.json
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.runtimeconfig.json
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.runtimeconfig.dev.json
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.dll
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\bin\Debug\netcoreapp3.1\BridgeAap.pdb
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\obj\Debug\netcoreapp3.1\BridgeAap.csprojAssemblyReference.cache
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\obj\Debug\netcoreapp3.1\BridgeAap.AssemblyInfoInputs.cache
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\obj\Debug\netcoreapp3.1\BridgeAap.AssemblyInfo.cs
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\obj\Debug\netcoreapp3.1\BridgeAap.dll
+C:\Users\de_Riter\source\repos\BridgeAap\BridgeAap\obj\Debug\netcoreapp3.1\BridgeAap.pdb
